@@ -1,0 +1,21 @@
+h1 {
+    font-family: 'Rubik', sans-serif;
+}
+
+.jumbotron {
+    border-radius: 0;
+    font-family: 'Rubik', sans-serif;
+    background-color: rgb(3, 57, 39);
+}
+
+.employee-card {
+    box-shadow: 5px 5px 5px gray;
+    margin: 1.5rem;
+    border: none;
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+}
+
+.card-body {
+    background-color: rgb(4, 34, 95);
+}
