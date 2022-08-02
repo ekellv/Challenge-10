@@ -140,7 +140,7 @@ function startPrompts () {
     // function to add arrays created from inquirer prompts to html page and output all information 
 
     function htmlGeneration() {
-        console.log("Your team has been created! They can be viewed here:")
+        console.log("Your team has been created!")
 
         fs.writeFileSync(htmlPath, generateHTML(teamArray), "utf-8")
     }
