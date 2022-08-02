@@ -59,7 +59,7 @@ THEN I exit the application, and the HTML is generated
 
 ## Visuals: 
 
-[Application Recording](https://user-images.githubusercontent.com/103372188/182389812-a387e5e7-83f1-48b8-966a-f490b4d8bcf3.mp4)
+[Recording of Application Functionality](https://user-images.githubusercontent.com/103372188/182389812-a387e5e7-83f1-48b8-966a-f490b4d8bcf3.mp4)
 ![team-profile-maker-node](https://user-images.githubusercontent.com/103372188/182389878-e86413f4-d8ab-4e10-82dd-86e3a8c222a3.png)
 ![team-profile-maker-html](https://user-images.githubusercontent.com/103372188/182389890-a8d89bdc-8b4d-4110-bb75-81ae0605344e.png)
 
